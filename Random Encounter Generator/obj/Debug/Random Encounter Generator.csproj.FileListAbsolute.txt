@@ -1,0 +1,13 @@
+C:\Users\joshu\Desktop\C#\Projects\Random Encounter Generator\Random Encounter Generator\obj\Debug\Random Encounter Generator.csproj.AssemblyReference.cache
+C:\Users\joshu\Desktop\C#\Projects\Random Encounter Generator\Random Encounter Generator\obj\Debug\Random_Encounter_Generator.Encounter.resources
+C:\Users\joshu\Desktop\C#\Projects\Random Encounter Generator\Random Encounter Generator\obj\Debug\Random_Encounter_Generator.Start.resources
+C:\Users\joshu\Desktop\C#\Projects\Random Encounter Generator\Random Encounter Generator\obj\Debug\Random_Encounter_Generator.Properties.Resources.resources
+C:\Users\joshu\Desktop\C#\Projects\Random Encounter Generator\Random Encounter Generator\obj\Debug\Random Encounter Generator.csproj.GenerateResource.cache
+C:\Users\joshu\Desktop\C#\Projects\Random Encounter Generator\Random Encounter Generator\obj\Debug\Random Encounter Generator.csproj.CoreCompileInputs.cache
+C:\Users\joshu\Desktop\C#\Projects\Random Encounter Generator\Random Encounter Generator\bin\Debug\Random Encounter Generator.exe.config
+C:\Users\joshu\Desktop\C#\Projects\Random Encounter Generator\Random Encounter Generator\bin\Debug\Random Encounter Generator.exe
+C:\Users\joshu\Desktop\C#\Projects\Random Encounter Generator\Random Encounter Generator\bin\Debug\Random Encounter Generator.pdb
+C:\Users\joshu\Desktop\C#\Projects\Random Encounter Generator\Random Encounter Generator\obj\Debug\Random Encounter Generator.exe
+C:\Users\joshu\Desktop\C#\Projects\Random Encounter Generator\Random Encounter Generator\obj\Debug\Random Encounter Generator.pdb
+C:\Users\joshu\Desktop\C#\Projects\Random Encounter Generator\Random Encounter Generator\obj\Debug\Random_Encounter_Generator.Shop.resources
+C:\Users\joshu\Desktop\C#\Projects\Random Encounter Generator\Random Encounter Generator\obj\Debug\Random_Encounter_Generator.Bonus_Screen.resources
