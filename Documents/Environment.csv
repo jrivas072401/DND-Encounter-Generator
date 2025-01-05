@@ -1,0 +1,26 @@
+Name,CR,EXP,Biome1,Biome2,Biome3,Link
+Explosive Barrel,-1,0,Urban,Coastal,Underdark,N/A
+Campfire,-1,0,Arctic,Underdark,,N/A
+Land Vehicle,-1,0,Urban,Grassland,Desert,N/A
+Water Vehicle,-1,0,Coastal,Underwater,Swamp,N/A
+Boulder,-1,0,Space,Hill,,N/A
+Boulder,-1,0,Underdark,Mountain,Desert,N/A
+Tree,-1,0,Swamp,Coastal,,N/A
+Tree,-1,0,Grassland,Forest,Hill,N/A
+Flying Vehicle,-1,0,Space,Mountain,,N/A
+(Unique) Scarlet Cyclone,-1,0,Arctic,,,N/A
+(Unique) Tidal Bomb,-1,0,Coastal,,,N/A
+(Unique) Diamond Dust,-1,0,Desert,,,N/A
+(Unique) Forest Lord,-1,0,Forest,,,N/A
+(Unique) Gaia's Wrath,-1,0,Grassland,,,N/A
+(Unique) Knight of the Wind,-1,0,Hill,,,N/A
+(Unique) Aerial Blast,-1,0,Mountain,,,N/A
+(Unique) Satellite,-1,0,Space,,,N/A
+(Unique) Ruler of the Swamp,-1,0,Swamp,,,N/A
+(Unique) Kingdom Hearts,-1,0,Underdark,,,N/A
+(Unique) Conduit,-1,0,Underwater,,,N/A
+(Unique) Ultima Weapon,-1,0,Urban,,,N/A
+Lights,-1,0,Underdark,Urban,Forest,N/A
+Tent,-1,0,Arctic,Desert,Grassland,N/A
+Coconut,-1,0,Coastal,,,N/A
+Oasis,-1,0,Desert,,,N/A

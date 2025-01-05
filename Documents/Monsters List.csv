@@ -1,0 +1,358 @@
+﻿Name,CR,EXP,Biome1,Biome2,Biome3,Link
+Aboleth,10,5900,Underdark,Underwater,,N/A
+Ape,0.5,100,Forest,Hill,Grassland,N/A
+Allosaurus,2,450,Grassland,Hill,,N/A
+Allip,5,1800,Swamp,Urban,,N/A
+Air Elemental,5,1800,Desert,Mountain,,N/A
+Air Elemental Myrmidon,7,2900,Desert,Mountain,,N/A
+Alhoon,10,5900,Underdark,,,N/A
+Alkilith,11,7200,Underdark,,,N/A
+Xvart,0.125,25,Hill,Underdark,Forest,N/A
+Xvart Speaker,0.125,25,Hill,Underdark,Forest,N/A
+Yeti Tyke,0.125,25,Arctic,,,N/A
+Abyssal Chicken,0.25,50,Grassland,Underdark,Arctic,N/A
+Acolyte,0.25,50,Urban,Arctic,Forest,N/A
+Ash Zombie,0.25,50,Urban,Forest,Underdark,N/A
+Dimetrodon,0.25,50,Coastal,Swamp,,N/A
+Fume Drake,0.25,50,Swamp,,,N/A
+Giant Space Hamster,0.25,50,Space,,,N/A
+Kuo-Toa,0.25,50,Underdark,,,N/A
+Walrus,0.25,50,Arctic,Underwater,Coastal,N/A
+Ambush Drake,0.5,100,Forest,Underdark,,N/A
+Black Bear,0.5,100,Forest,Grassland,Urban,N/A
+Drow Scout,0.5,100,Underdark,Urban,,N/A
+Giant Lynx,0.5,100,Arctic,Forest,,N/A
+Thug,0.5,100,Urban,Underdark,Arctic,N/A
+Zorbo,0.5,100,Forest,Urban,Mountain,N/A
+Bugbear,1,200,Forest,Grassland,Underdark,N/A
+Death Dog,1,200,Desert,Hill,,N/A
+Dire Wolf,1,200,Forest,Hill,Arctic,N/A
+Drow Spy,1,200,Urban,Underdark,,N/A
+Ghoul,1,200,Swamp,Underdark,Urban,N/A
+Harpy,1,200,Coastal,Forest,Mountain,N/A
+Hippogriff,1,200,Grassland,Hill,Mountain,N/A
+Kuo-Toa Whip,1,200,Underdark,,,N/A
+Aurochs,2,450,Grassland,Hill,Mountain,N/A
+Bandit Captain,2,450,Arctic,Desert,Urban,N/A
+Berserker,2,450,Arctic,Desert,Coastal,N/A
+Cult Fanatic,2,450,Urban,Underdark,,N/A
+Ghast,2,450,Swamp,Underdark,Urban,N/A
+Gelatinous Cube,2,450,Underdark,,,N/A
+Goblin Psi Brawler,2,450,Forest,Swamp,Mountain,N/A
+Black Guard Drake,2,450,Arctic,Underwater,Coastal,N/A
+Blue Guard Drake,2,450,Underdark,Desert,Mountain,N/A
+Green Guard Drake,2,450,Underwater,Swamp,Coastal,N/A
+Red Guard Drake,2,450,Urban,Desert,Mountain,N/A
+White Guard Drake,2,450,Arctic,Underdark,Mountain,N/A
+Huge Polar Bear,2,450,Arctic,,,N/A
+Intellect Devourer,2,450,Underdark,Urban,,N/A
+Mind Flayer Nothic,2,450,Underdark,Urban,,N/A
+Ogre,2,450,Arctic,Swamp,Underdark,N/A
+Ogre Bolt Launcher,2,450,Grassland,Hill,Mountain,N/A
+Ogre Goblin Hucker,2,450,Grassland,Swamp,Mountain,N/A
+Ogre Skeleton,2,450,Swamp,Underdark,,N/A
+Ogre Zombie,2,450,Swamp,Underdark,,N/A
+Pirate Captain,2,450,Coastal,Urban,,N/A
+Plesiosaurus,2,450,Coastal,Underwater,,N/A
+Polar Bear,2,450,Arctic,,,N/A
+Sea Hag,2,450,Coastal,Underwater,,N/A
+Shell Shark,2,450,Coastal,Underwater,,N/A
+Space Clown,2,450,Space,,,N/A
+Vampirate,2,450,Space,,,N/A
+Sea Elf,0.125,25,Underwater,Coastal,,N/A
+Bullywug ,0.25,50,Swamp,Underdark,,N/A
+Drow Acolyte,0.25,50,Urban,Underdark,,N/A
+Aquatic Ghoul,1,200,Underwater,Coastal,,N/A
+Aquatic Troll,5,1800,Underwater,Coastal,,N/A
+Nightsea Chil-Liren,0.125,25,Underwater,,,N/A
+Giant Sea Eel,0.5,100,Underwater,,,N/A
+Giant Sea Horse,0.5,100,Underwater,,,N/A
+Sea Elf Scout,0.5,100,Underwater,Coastal,,N/A
+Sea Spawn,1,200,Underwater,Coastal,,N/A
+Sea Lion,5,1800,Underwater,Coastal,,N/A
+Young Sea Serpent,8,3900,Underwater,Coastal,,N/A
+Ancient Sea Serpent,14,11500,Underwater,Coastal,,N/A
+Giant Crayfish,2,450,Underwater,Coastal,,N/A
+Green Hag,3,700,Forest,Hill,Swamp,N/A
+Night Hag,5,1800,Swamp,Underdark,Coastal,N/A
+Crocodile,0.5,100,Swamp,Urban,,N/A
+Reef Shark,0.5,100,Underwater,,,N/A
+Hunter Shark,2,450,Underwater,,,N/A
+Giant Shark,5,1800,Underwater,,,N/A
+Giant Shark Skeleton,5,1800,Underwater,,,N/A
+Leviathan,20,25000,Underwater,,,N/A
+Ankylosaurus,3,700,Grassland,,,N/A
+Astral Elf Warrior,3,700,Space,,,N/A
+Basilisk,3,700,Mountain,Desert,Underdark,N/A
+Bugbear Chief,3,700,Forest,Grassland,Underdark,N/A
+Bullywug Knight,3,700,Swamp,Underdark,,N/A
+Bullywug Royal,3,700,Swamp,Underdark,,N/A
+Flail Snail,3,700,Forest,Swamp,Underdark,N/A
+Giant Ice Toad,3,700,Arctic,,,N/A
+Giant Lightning Eel,3,700,Underwater,,,N/A
+Giff Shipmate,3,700,Space,,,N/A
+Githyanki Buccaneer,3,700,Space,,,N/A
+Hell Hound,3,700,Mountain,Underdark,,N/A
+Lava Child,3,700,Mountain,Underdark,Desert,N/A
+Manticore,3,700,Arctic,Coastal,Mountain,N/A
+Minotaur,3,700,Underdark,Hill,,N/A
+Owlbear,3,700,Forest,Hill,,N/A
+Snow Golem,3,700,Arctic,,,N/A
+Solar Dragon Wyrmling,3,700,Space,,,N/A
+Ssurran Defiler,3,700,Space,,,N/A
+Yeti,3,700,Arctic,,,N/A
+Banshee,4,1100,Coastal,Forest,,N/A
+Deathlock,4,1100,Urban,,,N/A
+Dragon Turtle Wyrmling,4,1100,Coastal,Underwater,,N/A
+Red Dragon Wyrmling,4,1100,Mountain,,,N/A
+Stegosaurus,4,1100,Forest,Grassland,,N/A
+Succubus,4,1100,Urban,,,N/A
+Astral Elf Honor Guard,5,1800,Space,,,N/A
+Astral Elf Star Priest,5,1800,Space,,,N/A
+Brontosaurus,5,1800,Forest,Grassland,,N/A
+Drow Commander,5,1800,Urban,Underdark,,N/A
+Drow Elite Warrior,5,1800,Urban,Underdark,,N/A
+Earth Elemental Myrmidon,7,2900,Underdark,,,N/A
+Earth Elemental,5,1800,Underdark,,,N/A
+Fire Elemental,5,1800,Desert,,,N/A
+Fire Elemental Myrmidon,7,2900,Desert,,,N/A
+Ice Troll,5,1800,Arctic,,,N/A
+Kraken Priest,5,1800,Coastal,Underwater,,N/A
+Mercane,5,1800,Space,,,N/A
+Murder Comet,5,1800,Space,,,N/A
+Starlight Apparition,5,1800,Space,,,N/A
+Thri-Kreen Mystic,5,1800,Space,,,N/A
+Time Dragon Wyrmling,5,1800,Space,Underdark,Grassland,N/A
+Troll,5,1800,Forest,Hill,Mountain,N/A
+Vampirate Mage,5,1800,Space,,,N/A
+Vampiric Mind Flayer,5,1800,Underdark,Urban,,N/A
+Water Elemental,5,1800,Coastal,Swamp,Underwater,N/A
+Water Elemental Myrmidon,7,2900,Coastal,Swamp,Underwater,N/A
+Aarakocra Spelljamer,6,2300,Urban,Mountain,,N/A
+Animated Breath (Fire),6,2300,Desert,Urban,,N/A
+Animated Breath (Cold),6,2300,Arctic,Urban,,N/A
+Animated Breath (Acid),6,2300,Swamp,Underdark,,N/A
+Animated Breath (Poison),6,2300,Swamp,Forest,,N/A
+Animated Breath (Lightning),6,2300,Coastal,Urban,,N/A
+Annis Hag,6,2300,Hill,Mountain,,N/A
+B'rohg,6,2300,Space,,,N/A
+Bodak,6,2300,Swamp,Underdark,Urban,N/A
+Chimera,6,2300,Grassland,Mountain,Underdark,N/A
+Cyclops,6,2300,Desert,Hill,Mountain,N/A
+Eater of Hope,6,2300,Space,Underdark,,N/A
+Eater of Knowledge,6,2300,Space,Underdark,,N/A
+Frost Giant Skeleton,6,2300,Arctic,Mountain,Underdark,N/A
+Gauth,6,2300,Underdark,,,N/A
+Giff Shock Trooper,6,2300,Space,,,N/A
+Invisible Stalker,6,2300,Urban,,,N/A
+Mammoth,6,2300,Arctic,,,N/A
+Medusa,6,2300,Desert,,,N/A
+Psurlon Leader,6,2300,Space,,,N/A
+Vampirate Captain,6,2300,Space,,,N/A
+Wyvern,6,2300,Hill,Mountain,,N/A
+Young Brass Dragon,6,2300,Desert,,,N/A
+Young White Dragon,6,2300,Arctic,,,N/A
+Armanite,7,2900,Underdark,,,N/A
+Astral Elf Commander,7,2900,Space,,,N/A
+Drow Mage,7,2900,Underdark,Urban,,N/A
+Giant Ape,7,2900,Forest,,,N/A
+Giant Skeleton,7,2900,Hill,Mountain,,N/A
+Githyanki Star Seer,7,2900,Space,,,N/A
+Liondrake,7,2900,Grassland,Mountain,,N/A
+Maurezhi,7,2900,Urban,Swamp,,N/A
+Mind Flayer Nothic,7,2900,Urban,Underdark,,N/A
+Oni,7,2900,Forest,Urban,,N/A
+Skeletal Knight,7,2900,Urban,Underdark,,N/A
+Stone Giant,7,2900,Hill,Mountain,Underdark,N/A
+Thri-Kreen Gladiator,7,2900,Space,,,N/A
+Young Black Dragon,7,2900,Swamp,,,N/A
+Young Copper Dragon,7,2900,Hill,,,N/A
+Young Lunar Dragon,7,2900,Space,,,N/A
+Young Topaz Dragon,7,2900,Underdark,,,N/A
+Brass Dragon Wyrmling,1,200,Desert,,,N/A
+Copper Dragon Wyrmling,1,200,Hill,,,N/A
+Deep Dragon Wyrmling,1,200,Underdark,,,N/A
+Black Dragon Wyrmling,2,450,Swamp,,,N/A
+Bronze Dragon Wyrmling,2,450,Hill,,,N/A
+Crystal Dragon Wyrmling,2,450,Arctic,Underdark,,N/A
+Emerald Dragon Wyrmling,2,450,Mountain,,,N/A
+Green Dragon Wyrmling,2,450,Swamp,,,N/A
+Lunar Dragon Wyrmling,2,450,Space,,,N/A
+Moonstone Dragon Wyrmling,2,450,Space,,,N/A
+Silver Dragon Wyrmling,2,450,Arctic,Mountain,,N/A
+Topaz Dragon Wyrmling,2,450,Underdark,,,N/A
+White Dragon Wyrmling,2,450,Arctic,,,N/A
+Blue Dragon Wyrmling,3,700,Coastal,,,N/A
+Gold Dragon Wyrmling,3,700,Underdark,Desert,,N/A
+Sapphire Dragon Wyrmling,3,700,Coastal,Underdark,,N/A
+Amethyst Dragon Wyrmling,4,1100,Underdark,Mountain,,N/A
+Young Crystal Dragon,5,1800,Arctic,Underdark,,N/A
+Young Deep Dragon,5,1800,Underdark,,,N/A
+Assassin,8,3900,Urban,,,N/A
+Astral Elf Aristocrat,8,3900,Space,,,N/A
+Chain Devil,8,3900,Urban,Underdark,,N/A
+Five-Armed Troll,8,3900,Hill,Mountain,Underdark,N/A
+Frost Giant,8,3900,Arctic,Mountain,,N/A
+Howler,8,3900,Desert,Grassland,Underdark,N/A
+Hydra,8,3900,Swamp,,,N/A
+Mind Flayer Psion,8,3900,Urban,Underdark,,N/A
+Sperm Whale,8,3900,Underwater,,,N/A
+Star Angler,8,3900,Space,Mountain,,N/A
+Tyrannosaurus Rex,8,3900,Grassland,,,N/A
+Tyrannosaurus Zombie,8,3900,Grassland,,,N/A
+Unspeakable Horror,8,3900,Urban,Underdark,,N/A
+Young Bronze Dragon,8,3900,Hill,,,N/A
+Young Emerald Dragon,8,3900,Mountain,,,N/A
+Young Green Dragon,8,3900,Swamp,,,N/A
+Young Moonstone Dragon,8,3900,Space,,,N/A
+Abhorrent Overlord,9,5000,Desert,Swamp,Urban,N/A
+Abominable Yeti,9,5000,Arctic,,,N/A
+Anhkolox,9,5000,Urban,Grassland,Underdark,N/A
+Bone Devil,9,5000,Urban,Underdark,,N/A
+Braxat,9,5000,Space,,,N/A
+Cloud Giant,9,5000,Mountain,,,N/A
+Cloud Giant Ghost,9,5000,Mountain,,,N/A
+Cloud Giant Noble,9,5000,Mountain,,,N/A
+Conclave Dryad,9,5000,Forest,,,N/A
+Deep Crow,9,5000,Grassland,Urban,Underdark,N/A
+Drow House Captain,9,5000,Urban,Underdark,,N/A
+Evoker Wizard,9,5000,Urban,,,N/A
+Fire Giant,9,5000,Mountain,Underdark,Swamp,N/A
+Giant Mutated Drow,9,5000,Urban,Underdark,,N/A
+Githyanki Xenomancer,9,5000,Space,,,N/A
+Hydroloth,9,5000,Underwater,Coastal,,N/A
+Young Amethyst Dragon,9,5000,Underdark,Mountain,,N/A
+Young Blue Dragon,9,5000,Coastal,,,N/A
+Young Sapphire Dragon,9,5000,Coastal,Underdark,,N/A
+Young Silver Dragon,9,5000,Arctic,Mountain,,N/A
+Young Solar Dragon,9,5000,Space,,,N/A
+Air Elemental,5,1800,Desert,Mountain,,N/A
+Air Elemental Myrmidon,7,2900,Desert,Mountain,,N/A
+Aerosaur,10,5900,Mountain,Desert,,N/A
+Alhoon,10,5900,Urban,Underdark,,N/A
+Darkweaver,10,5900,Arctic,Underdark,Forest,N/A
+Death Kiss,10,5900,Underdark,Urban,Coastal,N/A
+Deva,10,5900,Urban,Mountain,Hill,N/A
+Dullahan,10,5900,Urban,Forest,Underdark,N/A
+Elder Oblex,10,5900,Underdark,Desert,Swamp,N/A
+Froghemoth,10,5900,Underwater,Coastal,Swamp,N/A
+Frostmourn,10,5900,Arctic,Mountain,,N/A
+Guardian Naga,10,5900,Desert,Forest,,N/A
+Lesser Death Dragon,10,5900,Grassland,Underdark,Hill,N/A
+Star Spawn Hulk,10,5900,Space,,,N/A
+Young Gold Dragon,10,5900,Forest,Grassland,,N/A
+Young Red Dragon,10,5900,Hill,Mountain,,N/A
+Adult Deep Dragon,11,7200,Underdark,,,N/A
+Alkilith,11,7200,Coastal,Urban,Underdark,N/A
+Chardalyn Dragon,11,7200,Urban,Mountain,Arctic,N/A
+Dracohydra,11,7200,Swamp,,,N/A
+Frost Giant of Evil Water,11,7200,Arctic,Coastal,Underwater,N/A
+Hierophant of the Comet,11,7200,Space,,,N/A
+Roc,11,7200,Mountain,Hill,Grassland,N/A
+Spirit Troll,11,7200,Mountain,Hill,,N/A
+Storm Crab,11,7200,Coastal,Underwater,,N/A
+Young Time Dragon,11,7200,Space,Underdark,Grassland,N/A
+Adult Crystal Dragon,12,8400,Arctic,Underdark,,N/A
+Archdruid,12,8400,Urban,Forest,Hill,N/A
+Archmage,12,8400,Urban,Grassland,Mountain,N/A
+Archon of Falling Stars,12,8400,Space,,,N/A
+Arclight Phoenix,12,8400,Grassland,Desert,,N/A
+Bakunawa,12,8400,Coastal,Underwater,,N/A
+Cloud Giant of Evil Air,12,8400,Mountain,,,N/A
+Firemane Angel,12,8400,Desert,Urban,,N/A
+Frost Giant Everlasting One,12,8400,Arctic,Mountain,,N/A
+Ironscale Hydra,12,8400,Swamp,,,N/A
+Sire of Insanity,12,8400,Swamp,Underdark,,N/A
+Adult Brass Dragon,13,10000,Desert,,,N/A
+Adult Lunar Dragon,13,10000,Space,,,N/A
+Adult Topaz Dragon,13,10000,Underdark,,,N/A
+Adult White Dragon,13,10000,Arctic,,,N/A
+Beholder,13,10000,Underdark,Swamp,Urban,N/A
+Dire Troll,13,10000,Hill,Mountain,Grassland,N/A
+Nalfeshnee,13,10000,Arctic,Mountain,,N/A
+Narzugon,13,10000,Arctic,Forest,Hill,N/A
+Rakshasa,13,10000,Urban,Forest,Grassland,N/A
+Spectral Cloud,13,10000,Space,,,N/A
+Star Spawn Seer,13,10000,Space,,,N/A
+Storm Giant,13,10000,Mountain,Coastal,Underwater,N/A
+Wastrilith,13,10000,Underwater,Coastal,,N/A
+Young Red Shadow Dragon,13,10000,Underdark,,,N/A
+Adult Black Dragon,14,11500,Swamp,,,N/A
+Adult Copper Dragon,14,11500,Hill,,,N/A
+Adult Emerald Dragon,14,11500,Mountain,,,N/A
+Adult Solar Dragon,14,11500,Space,,,N/A
+Archon of the Trimvirate,14,11500,Urban,Forest,Underdark,N/A
+Breath Drinker,14,11500,Urban,Underdark,Arctic,N/A
+Death Tyrant,14,11500,Urban,Underdark,,N/A
+Deathpact Angel,14,11500,Arctic,Space,Grassland,N/A
+Devkarin Lich,14,11500,Underdark,Swamp,Forest,N/A
+Elder Brain,14,11500,Underdark,Swamp,Mountain,N/A
+Fire Giant Dreadnought,14,11500,Desert,Mountain,Hill,N/A
+Fury of Kostctchie,14,11500,Mountain,Coastal,Arctic,N/A
+Githyanki Supreme Commander,14,11500,Space,,,N/A
+Greater Death Dragon,14,11500,Grassland,Underdark,Hill,N/A
+Hulgaz,14,11500,Urban,Grassland,Forest,N/A
+Juvenile Kraken,14,11500,Coastal,Underwater,,N/A
+Regisaur,14,11500,Grassland,Forest,Hill,N/A
+Retriever,14,11500,Desert,Forest,Underdark,N/A
+Wurm,14,11500,Underdark,Mountain,Desert,N/A
+Adult Bronze Dragon,15,13000,Hill,,,N/A
+Adult Green Dragon,15,13000,Swamp,,,N/A
+Adult Moonstone Dragon,15,13000,Space,,,N/A
+Adult Sapphire Dragon,15,13000,Coastal,Underdark,,N/A
+Borthak,15,13000,Arctic,Underdark,Swamp,N/A
+Death Giant Shrouded One,15,13000,Hill,Mountain,Grassland,N/A
+Deathwolf,15,13000,Forest,Grassland,Hill,N/A
+Grim Champion of Pestilence,15,13000,Urban,Grassland,Arctic,N/A
+Hundred-Handed One,15,13000,Grassland,Urban,Hill,N/A
+Lesser Mummy Lord,15,13000,Urban,Desert,,N/A
+Mordakhesh,15,13000,Urban,Desert,Underdark,N/A
+Mummy Lord,15,13000,Urban,Desert,,N/A
+Nabassu,15,13000,Arctic,Desert,Swamp,N/A
+Purple Worm,15,13000,Underdark,,,N/A
+Skull Lord,15,13000,Arctic,Swamp,Underdark,N/A
+Tempest Spirit,15,13000,Coastal,,,N/A
+Adult Amethyst Dragon,16,15000,Underdark,Mountain,,N/A
+Adult Blue Dragon,16,15000,Coastal,,,N/A
+Adult Silver Dragon,16,15000,Arctic,Mountain,,N/A
+Ashen Rider,16,15000,Urban,Grassland,Underdark,N/A
+Category 3 Krasis,16,15000,Underwater,Coastal,,N/A
+Daemogoth Titan,16,15000,Hill,Mountain,,N/A
+Phoenix,16,15000,Urban,Desert,,N/A
+Planetar,16,15000,Space,,,N/A
+Star Spawn Larva Mage,16,15000,Space,,,N/A
+SteeL Predator,16,15000,Arctic,Urban,Forest,N/A
+Titivilus,16,15000,Arctic,Underdark,,N/A
+Adult Blue Dracolich,17,18000,Desert,,,N/A
+Adult Gold Dragon,17,18000,Forest,Grassland,,N/A
+Adult Red Dracolich,17,18000,Hill,Mountain,Underdark,N/A
+Adult Red Dragon,17,18000,Hill,Mountain,,N/A
+Androsphinx,17,18000,Desert,,,N/A
+Aurumach Rilmani,17,18000,Urban,Space,,N/A
+Blue Abishai,17,18000,Arctic,Urban,Swamp,N/A
+Death Knight,17,18000,Urban,Grassland,Forest,N/A
+Dragon Turtle Wyrmling,17,18000,Coastal,Underwater,,N/A
+Ghost Dragon,17,18000,Underdark,Hill,Grassland,N/A
+Hierophant Medusa,17,18000,Desert,Grassland,Swamp,N/A
+Otherworldly Corrupter,17,18000,Space,Urban,,N/A
+Storm Herald,17,18000,Coastal,Mountain,,N/A
+Troll Amalgam,17,18000,Hill,Swamp,,N/A
+Adult Time Dragon,18,20000,Space,Underdark,Grassland,N/A
+Amnizu,18,20000,Arctic,Desert,Underdark,N/A
+Ancient Deep Dragon,18,20000,Underdark,,,N/A
+Archaic,18,20000,Urban,Grassland,,N/A
+Cosmic Horror,18,20000,Space,Underdark,,N/A
+Demilich,18,20000,Underdark,Swamp,Forest,N/A
+Fire Giant Forgecaller,18,20000,Desert,Mountain,Hill,N/A
+Hollow Dragon,18,20000,Swamp,Desert,Space,N/A
+Lichen Lich,18,20000,Coastal,Arctic,Forest,N/A
+Sibriex,18,20000,Arctic,Desert,Mountain,N/A
+Walking Statue of Waterdeep,18,20000,Urban,,,N/A
+Ancient Crystal Dragon,19,22000,Arctic,Underdark,,N/A
+Ancient Lunar Dragon,19,22000,Space,,,N/A
+Bael,19,22000,Urban,Grassland,Forest,N/A
+Balor,19,22000,Swamp,Desert,Hill,N/A
+Cloud Gaint Destiny Gambler,19,22000,Mountain,Coastal,,N/A
+Lesser Star Spawn Emissary,19,22000,Space,Urban,Grassland,N/A
+Polukranos,19,22000,Coastal,Underwater,Swamp,N/A
+Red Abishai,19,22000,Desert,Urban,Hill,N/A

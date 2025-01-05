@@ -1,0 +1,38 @@
+Name,Description,Rarity
+25% Off!,Reduce Price of Items in the Item Shop by 25% for the current shopping session.,Uncommon
+50% Off!,Reduce Price of Items in the Item Shop by 50% for the current shopping session.,Ultra Rare
+75% Off!,Reduce Price of Items in the Item Shop by 75% for the current shopping session.,Legendary
+Free Potion,Gain a Free Potion of Healing,Common
+Free Potions,Gain 2 Free Potions of Healing,Uncommon
+Resistance Removal,Removes a random Resistance from all enemies in the next wave.,Uncommon
+Immunity Removal,Removes a random Immunity from all enemies in the next wave.,Ultra Rare
+Common Magic Item Voucher,Exchange for 1 Common Magic Item,Uncommon
+Uncommon Magic Item Voucher,Exchange for 1 Uncommon Magic Item,Rare
+Rare Magic Item Voucher,Exchange for 1 Rare Magic Item,Ultra Rare
+Ultra Rare Magic Item Voucher,Exchange for 1 Ultra Rare Magic Item,Legendary
+Potion of Advantage,Gain a Potion of Advantage,Uncommon
+Potion of Water Breathing,Gain a Potion of Water Breathing,Common
+Common Scroll Voucher,Exchange for a Scroll with a spell from levels 1-2,Common
+Uncommon Scroll Voucher,Exchange for a Scroll with a spell from levels 3-4,Uncommon
+Rare Scroll Voucher,Exchange for a Scroll with a spell from levels 5-6,Rare
+Ultra Rare Scroll Voucher,Exchange for a Scroll with a spell from levels 7-8,Ultra Rare
+Legendary Scroll Voucher,Exchange for a Scroll with a level 9 spell,Legendary
+Double Gold ,Double Gold earned in the next wave,Uncommon
+Free Greater Healing,Gain a Free Potion of Greater Healing,Rare
+Short Rest,Take a Short Rest,Common
+Short Rest,Take a Short Rest,Uncommon
+Short Rest,Take a Short Rest,Rare
+Long Rest,Take a Long Rest,Uncommon
+Long Rest,Take a Long Rest,Rare
+Long Rest,Take a Long Rest,Ultra Rare
+Temp HP I,Gain 2d6 Temp HP for the next wave.,Uncommon
+Increase Movement,Gain +5 to your Movement Speed (Stackable MAX: +30),Ultra Rare
+Resistance,Gain a Random Resistance to a Damage Type for the next Wave,Rare
+Temp HP II,Gain 4d6 Temp HP for the next wave,Rare
+Temp HP III,Gain 6d6 Temp HP for the next wave,Ultra Rare
+Strength +2,Each party member gains a Manual of Gainful Exercise,Ultra Rare
+Dexterity +2,Each party member gains a Manual of Quickness of Action,Ultra Rare
+Constitution +2,Each party member gains a Manual of Bodily Health,Ultra Rare
+Intelligence +2,Each party member gains a Tome of Clear Thought,Ultra Rare
+Wisdom +2,Each party member gains a Tome of Understanding,Ultra Rare
+Charisma +2,Each party member gains a Tome of Leadership and Influence,Ultra Rare
