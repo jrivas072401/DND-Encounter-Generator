@@ -75,7 +75,8 @@ namespace Random_Encounter_Generator
         private List<Monster> GetMonsters()
         {
             const string referenceString = "Name,CR,EXP,Biome1,Biome2,Biome3,Link";
-            string filename = "C:\\Users\\joshu\\Desktop\\C#\\Documents\\Monsters List.csv";
+            // replace with folder name w/ documents
+            string filename = "";
             Biomes.Clear();
             List<Monster> temp = new List<Monster>();
             using (StreamReader sr = new StreamReader(filename))
