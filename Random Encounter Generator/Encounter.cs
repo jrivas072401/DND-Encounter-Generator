@@ -63,7 +63,7 @@ namespace Random_Encounter_Generator
             // helps prioritize higher EXP monsters
             List<Monster> sorted = monsters.OrderByDescending(m => m.exp).ToList();
 
-            
+            int loops = 0;
             // add to encounter list while exp total is below the limit
             while(totalEXP < EXPLimit * 0.88)
             {
@@ -88,7 +88,11 @@ namespace Random_Encounter_Generator
                     {
                         break;
                     }
+                    // break if impossible to enter threshold
+                    if(loops >= 15)
+                        break;
                 }
+                loops++;
             }
 
             int numOfObjects = random.Next(5, 15);
