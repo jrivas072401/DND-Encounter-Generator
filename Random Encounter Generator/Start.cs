@@ -150,7 +150,8 @@ namespace Random_Encounter_Generator
         {
             List<Monster> temp = new List<Monster>();
             const string referenceString = "Name,CR,EXP,Biome1,Biome2,Biome3,Link";
-            string filename = "C:\\Users\\joshu\\Desktop\\C#\\Documents\\Environment.csv";
+            // filepath
+            string filename = "";
             using (StreamReader sr = new StreamReader(filename))
             {
 
