@@ -127,7 +127,8 @@ namespace Random_Encounter_Generator
         {
             List<Reward> temp = new List<Reward>();
             const string referenceString = "Name,Description,Rarity";
-            string filename = "C:\\Users\\joshu\\Desktop\\C#\\Documents\\Rewards List.csv";
+            // file path
+            string filename = "";
             using (StreamReader sr = new StreamReader(filename))
             {
 
